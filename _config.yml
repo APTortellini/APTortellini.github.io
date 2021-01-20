@@ -7,17 +7,15 @@
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Chirpy                          # the main title
+title: APTWTF                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Home of the Advanced Persistent Tortellini   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Collection of blogposts and tools about offensive operations
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://aptw.tf'
+url: 'https://blog.aptw.tf'
 
 author: The Advanced Persistent Tortellini                  # change to your full name
 
@@ -87,7 +85,7 @@ theme_mode: dark  # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
+avatar: https://blog.aptw.tf/assets/img/aptortellini.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
