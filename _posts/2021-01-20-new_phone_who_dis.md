@@ -1,6 +1,9 @@
 ---
 title: New phone, who dis?
-date: 2021-01-20 23:30:00 
-categories: [New]
-tags: [introduction]     # TAG names should always be lowercase
+author: last
+date: 2021-01-20 23:30:00 +0800
+categories: [Blogging, Tutorial]
+tags: [introduction]
 ---
+
+Test post :)
