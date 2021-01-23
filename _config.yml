@@ -15,7 +15,7 @@ description: >-                        # used by seo meta and the atom feed
   Collection of blogposts and tools about offensive operations
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://blog.aptw.tf'
+url: 'https://aptw.tf'
 
 author: The Advanced Persistent Tortellini                  # change to your full name
 
